@@ -19,8 +19,7 @@ source ~/pytorch_env/bin/activate
 python ob_detect.py --weights yolov5s.pt --source 你的视频路径.mp4
 
 ##检测效果
-<img width="2048" height="1600" alt="traffic_result_screenshot" src="https://github.com/user-attachments/assets/077b4136-577c-4e14-bde4-77aac0016e7c" />
-
+https://github.com/yaobao1126/yolov5_object_tracking_demo/blob/main/traffic_result_screenshot.png
 (测试场景：真实红绿灯路口。成功识别出红绿灯、公交车、行人和雨伞。)
 
 遇到的困难与解决

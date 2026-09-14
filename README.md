@@ -16,7 +16,7 @@
 source ~/pytorch_env/bin/activate
 
 # 运行目标检测
-python ob_detect.py --weights yolov5s.pt --source 你的视频路径.mp4
+python ob_detect.py --weights yolov5s.pt --source D:\vmshare\YOLOv5_tracking\traffic_test.mp4
 
 ##检测效果
 https://github.com/yaobao1126/yolov5_object_tracking_demo/blob/main/traffic_result_screenshot.png
